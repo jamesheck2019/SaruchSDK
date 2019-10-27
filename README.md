@@ -2,7 +2,7 @@
 
 `Download:`[https://github.com/jamesheck2019/SaruchSDK/releases](https://github.com/jamesheck2019/SaruchSDK/releases)<br>
 `NuGet:`
-[![NuGet](https://img.shields.io/nuget/v/DeQmaTech.SaruchSDK.svg?style=flat-square&logo=nuget)](https://www.nuget.org/packages/DeQmaTech.htputSDK)<br>
+[![NuGet](https://img.shields.io/nuget/v/DeQmaTech.SaruchSDK.svg?style=flat-square&logo=nuget)](https://www.nuget.org/packages/DeQmaTech.SaruchSDK)<br>
 
 **Features**
 * Assemblies for .NET 4.5.2 and .NET Standard 2.0 and .NET Core 2.1
