@@ -16,51 +16,51 @@
 
 # List of functions:
 **Authentication**
-1. OneHourToken
-1. SignUp
+> * OneHourToken
+> * SignUp
 
 **Account**
-1. UserInfo
-1. StorageInfo
-1. RenewToken
-1. GetConversionSettings
-1. ChangeConversionSettings
+> * UserInfo
+> * StorageInfo
+> * RenewToken
+> * GetConversionSettings
+> * ChangeConversionSettings
 
 **Folder**
-1. List
-1. Metadata
-1. Create
-1. Rename
-1. Delete
-1. Move
-1. UploadLocalVideo
-1. UploadRemoteVideo
+> * List
+> * Metadata
+> * Create
+> * Rename
+> * Delete
+> * Move
+> * UploadLocalVideo
+> * UploadRemoteVideo
 
 **RemoteUpload**
-1. Queue
-1. Search
-1. Status
-1. Delete
+> * Queue
+> * Search
+> * Status
+> * Delete
 
 **Subtitles**
-1. Clear
-1. Upload
-1. Metadatas
-1. Metadata
-1. Delete
+> * Clear
+> * Upload
+> * Metadatas
+> * Metadata
+> * Delete
 
 **Video**
-1. GetDownloadUrl
-1. Download
-1. Category
-1. Rename
-1. Move
-1. Delete
-1. Search
-1. Privacy
-1. Monetize
-1. ThumbnailSet
-1. ThumbnailDelete
+> * GetDownloadUrl
+> * Download
+> * Category
+> * Rename
+> * Move
+> * Delete
+> * Search
+> * Privacy
+> * Monetize
+> * ThumbnailSet
+> * ThumbnailDelete
 
 
 # CodeMap:
